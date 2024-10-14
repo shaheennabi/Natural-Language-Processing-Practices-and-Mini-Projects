@@ -1,5 +1,5 @@
 # Natural-Language-Processing-Practices-and-Mini-Projects
-###This repository is focused on experimenting with and implementing various natural language processing (NLP) techniques, including:
+### This repository is focused on experimenting with and implementing various natural language processing (NLP) techniques, including:
 
 * NLP Algorithm Implementations: Building NLP algorithms from scratch, such as RNNs, GRUs, LSTMs, and other sequential data models.
   
