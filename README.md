@@ -1,5 +1,7 @@
 # 🚀 NLP Experiments & Projects 🎇
 
+ongoing....
+
 Welcome to my **Natural Language Processing (NLP)** repository, where the art of understanding human language meets cutting-edge algorithms! 🧠💬 This collection showcases my experiments and mini-projects focused on NLP, with the aim to implement popular NLP models like **RNNs**, **LSTMs**, and the **Attention Mechanism** from scratch, based on the latest research papers. 📚
 
 If you're passionate about **building NLP models** from the ground up and exploring the vast potential of language in AI, you’ve come to the right place! This repository will be a living document of my journey to understand and master NLP algorithms, and I will be continuously updating it with new experiments and implementations. 🚀
