@@ -1,4 +1,4 @@
-# 🚀 NLP Experiments & Projects 
+# 🚀 NLP Practices and 
 
 ongoing...
 
