@@ -1,4 +1,4 @@
-# 🚀 NLP Practices and 
+# 🚀 NLP Practices and Mini-Projects
 
 ongoing...
 
