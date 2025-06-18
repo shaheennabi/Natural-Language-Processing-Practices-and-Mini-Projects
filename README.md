@@ -1,6 +1,6 @@
 # 🚀 NLP Practices and Mini-Projects
 
-ongoing...
+ongoing....
 
 Welcome to my **Natural Language Processing (NLP)** repository, where the art of understanding human language meets cutting-edge algorithms! 🧠💬 This collection showcases my experiments and mini-projects focused on NLP, with the aim to implement popular NLP models like **RNNs**, **LSTMs**, and the **Attention Mechanism** from scratch, based on the latest research papers. 📚
 
